@@ -1,0 +1,139 @@
+.letras {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #333333;
+}
+.textBoxes {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #333333;
+	background-color: #F0F0F0;
+	border: 1px solid #666666;
+}
+.letrasLC {
+
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 16px;
+	text-transform: none;
+	color: #000000;
+}
+.letrasLCNeg {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 14px;
+	text-transform: none;
+	color: #000000;
+	font-weight:bold;
+}
+.letrasLCEspL {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 12px;
+	text-transform: none;
+	color: #FFB895;
+	font-weight:bold;
+}
+.letrasLCEsp {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 17px;
+	text-transform: none;
+	color: #FFCC00;
+	font-weight:bold;
+}
+.letrasLCDere {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 13px;
+	text-transform: none;
+	color: #000;
+	font-weight:bold;
+}
+.letrasLCTels {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Arial;
+	font-size: 12px;
+	text-transform: none;
+	color: #FFCC33;
+	font-weight:bold;
+}
+.letrasLCAster {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 12px;
+	text-transform: none;
+	color: #787878;
+	font-weight:bold;
+}
+.letrasLCTelsWhite {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Arial;
+	font-size: 13px;
+	text-transform: none;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+.letrasLCBlue {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 15px;
+	text-transform: none;
+	color: #336699;
+	font-weight:bold;
+}
+.letrasLCRed {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 16px;
+	text-transform: none;
+	text-decoration:underline;
+	color: #FC0;
+	font-weight:bold;
+}
+.letrasLCHBlue {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 15px;
+	text-transform: none;
+	color: #036;
+	font-weight:bold;
+}
+.letrasLCCopy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-transform: none;
+	color: #0066FF;
+}
+.letrasLCWhite {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: Calibri;
+	font-size: 12px;
+	text-transform: none;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+.tablasBorde {
+	font-family: Calibri;
+	font-size: 17px;
+	color: #333333;
+	border: 1px solid #CCCCCC;
+	text-align:justify;
+}
+#textarea {
+background-color: #ffffff;
+width:20px;
+height:20px;
+overflow:auto;
+margin-bottom: 15px;
+}
+
+A:link {text-decoration:none;color:#838383;}
+
+/*A:visited {text-decoration:none;color:#FFF;}
+
+A:active {text-decoration:none;color:#B0CCE3;}
+
+A:hover {text-decoration:underline;color:#999999;}*/
