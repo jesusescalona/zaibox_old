@@ -11,7 +11,7 @@
   <tr>
     <td class="<%= texto1%>"><div align="right"><span class="txtTextoI">Contrase&ntilde;a</span></div></td>
     <td align="left"><div align="left">
-      <input name="clave" style="background-color:#FFD" type="password" class="txtCajas" placeholder="Escribe tu contraseña"/>
+      <input name="clave" style="background-color:#FFD" type="password" class="txtCajas" placeholder="Escribe tu contrase&ntilde;a"/>
     </div></td>
   </tr>
   <tr>

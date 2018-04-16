@@ -117,7 +117,7 @@ setInterval('verImg()',4000);
                <form action="selPais.asp" method="post" name="formulario" id="formulario">
                 <td colspan="2" align="center" style="background-repeat:no-repeat"><span class="letrasLC">
                   <select style="background-color:#D7EBFF" name="cboPais" id="cboPais" onChange="javascript: document.forms['formulario'].submit();">
-                    <option value="#">Seleccione su país...</option>
+                    <option value="#">Selecciona tu país...</option>
                     <option value="#">---------------------</option>
                     <option value="colombia">Colombia</option>
                     <option value="ecuador">Ecuador</option>
