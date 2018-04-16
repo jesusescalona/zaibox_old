@@ -3,7 +3,7 @@
   <tr>
     <td class="<%= texto1%>"><div align="right">Usuario</div>
     <td><div align="left">
-      <input name="usuario" type="text" class="txtCajas" placeholder="Su casillero ZB#-###" style="background-color:#FFD" />
+      <input name="usuario" type="text" class="txtCajas" placeholder="Escribe tu casillero ZB#-###" style="background-color:#FFD" />
     </div></tr>
   <tr>
     <td colspan="2"></td>
@@ -11,7 +11,7 @@
   <tr>
     <td class="<%= texto1%>"><div align="right"><span class="txtTextoI">Contrase&ntilde;a</span></div></td>
     <td align="left"><div align="left">
-      <input name="clave" style="background-color:#FFD" type="password" class="txtCajas" />
+      <input name="clave" style="background-color:#FFD" type="password" class="txtCajas" placeholder="Escribe tu contraseña"/>
     </div></td>
   </tr>
   <tr>
