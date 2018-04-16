@@ -111,7 +111,7 @@ setInterval('verImg()',4000);
               <td colspan="2" align="center" style="background-repeat:no-repeat">&nbsp;</td>
             </tr>
             <tr valign="baseline">
-              <td colspan="2" align="center" style="background-repeat:no-repeat"><span class="letrasLCTelsWhite">Calcule su env&iacute;o desde USA a:</span></td>
+              <td colspan="2" align="center" style="background-repeat:no-repeat"><span class="letrasLCTelsWhite">Calcula tu env&iacute;o desde USA a:</span></td>
             </tr>
             <tr valign="baseline">
                <form action="selPais.asp" method="post" name="formulario" id="formulario">
